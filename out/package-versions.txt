@@ -1,0 +1,28 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 22000)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252 LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.5   Rcompadre_1.0.0
+
+loaded via a namespace (and not attached):
+ [1] progress_1.2.2    tidyselect_1.1.1  xfun_0.21         purrr_0.3.4       splines_4.0.3     lattice_0.20-41  
+ [7] colorspace_2.0-1  vctrs_0.3.8       generics_0.1.0    expm_0.999-6      htmltools_0.5.1.1 yaml_2.2.1       
+[13] mgcv_1.8-35       utf8_1.2.1        XML_3.99-0.6      rlang_0.4.10      pillar_1.6.1      glue_1.4.2       
+[19] withr_2.4.2       DBI_1.1.1         rentrez_1.2.3     lifecycle_1.0.0   munsell_0.5.0     gtable_0.3.0     
+[25] evaluate_0.14     labeling_0.4.2    knitr_1.33        parallel_4.0.3    fansi_0.4.2       Rcpp_1.0.7       
+[31] scales_1.1.1      jsonlite_1.7.2    farver_2.1.0      popdemo_1.3-0     hms_1.1.0         digest_0.6.27    
+[37] rncl_0.8.4        dplyr_1.0.6       grid_4.0.3        tools_4.0.3       magrittr_2.0.1    tibble_3.1.1     
+[43] crayon_1.4.1      ape_5.5           pkgconfig_2.0.3   ellipsis_0.3.2    Matrix_1.2-18     prettyunits_1.1.1
+[49] assertthat_0.2.1  rmarkdown_2.11    httr_1.4.2        R6_2.5.0          rotl_3.0.12       nlme_3.1-152     
+[55] compiler_4.0.3   
